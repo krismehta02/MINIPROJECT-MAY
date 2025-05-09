@@ -7,7 +7,7 @@ function ContactUs() {
       <ul style={{ fontSize: '18px', lineHeight: '1.8' }}>
         <li>Kris Mehta: 9313277816</li>
         <li>Harshada Ghadge: 8308710198</li>
-        <li>Kajal Palwer: 9594860386</li>
+        <li>Kajal Palwe: 9594860386</li>
       </ul>
     </div>
   );

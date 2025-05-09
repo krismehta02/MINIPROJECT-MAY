@@ -10,7 +10,7 @@ function AboutUs() {
       </p>
       <h3>Our Team</h3>
       <Row>
-
+        {/* Team member 1: Kris */}
         <Col md={4}>
           <Card>
             <Card.Img variant="top" src="https://via.placeholder.com/150" />
@@ -39,7 +39,7 @@ function AboutUs() {
           <Card>
             <Card.Img variant="top" src="https://via.placeholder.com/150" />
             <Card.Body>
-              <Card.Title>Kajal Palwer</Card.Title>
+              <Card.Title>Kajal Palwe</Card.Title>
               <Card.Text>
                 UI/UX designer. Focuses on creating an intuitive and user-friendly interface.
               </Card.Text>
